@@ -1,0 +1,14 @@
+.git
+.next
+.vscode
+.yarn
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+out
+.dockerignore
+.eslintrc*
+.gitignore
+.pnp.*
+Dockerfile
+README.md
